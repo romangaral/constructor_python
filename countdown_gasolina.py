@@ -21,7 +21,7 @@ class Coche:
             self.gasolina=self.gasolina-1
         
         if self.gasolina ==0:
-            print ("El coche esta sin combustible.")
+            print ("El coche esta sin combustible, se parara en breve.")
 
 
 
